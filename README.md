@@ -1,5 +1,4 @@
-## ezproxy-student
-## Public folder created for TRY Conference 2019 Presentation
+## ezproxy-student - Public folder created for TRY Conference 2019 Presentation
 # TRY Conference 2019
 ## Usage Data Analysis Using Python
 ### Presenters: Lei Jin, Josephine Choi
